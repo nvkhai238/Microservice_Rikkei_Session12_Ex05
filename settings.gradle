@@ -1,0 +1,4 @@
+rootProject.name = 'session12-ex05'
+include 'shipping-service'
+include 'order-service'
+include 'notification-service'

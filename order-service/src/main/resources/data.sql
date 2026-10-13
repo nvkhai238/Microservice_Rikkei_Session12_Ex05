@@ -1,0 +1,1 @@
+INSERT INTO orders (id,status) VALUES (1,'SHIPPING') ON CONFLICT (id) DO NOTHING;
